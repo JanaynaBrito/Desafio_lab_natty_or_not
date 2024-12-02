@@ -16,4 +16,4 @@ A estruturação do conteúdo foi feito utilizando a ferramenta Word da Microsof
 Nesse Ebook você será capaz de descobrir de uma forma dinâmica os mecanismos utilizados na gamificação para trazer beneficios na forma de
 ensinar e engajar os alunos nos estudos.
 
-(https://github.com/JanaynaBrito/Desafio_lab_natty_or_not/blob/main/EBOOK%20-%20A%20Gamifica%C3%A7%C3%A3o%20na%20Educa%C3%A7%C3%A3o.docx)
+**[EBOOK](https://github.com/JanaynaBrito/Desafio_lab_natty_or_not/blob/main/EBOOK%20-%20A%20Gamifica%C3%A7%C3%A3o%20na%20Educa%C3%A7%C3%A3o.docx)**
